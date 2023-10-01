@@ -1,0 +1,31 @@
+.hidden {
+    display: none;
+}
+
+body{
+    display: flexbox;
+    background-color:rgb(252, 252, 251);
+    text-align: center;
+    padding: 1%;
+}
+
+.img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    z-index: -1;
+    animation: fadeIn 0.5s linear;
+    background-size: cover;
+}
+
+#todo-list{
+    list-style: none;
+}
+
+button{
+    border: none;
+    background: transparent;
+    
+}
