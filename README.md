@@ -1,6 +1,6 @@
 ### 🎬 구현 결과 OVERVIEW
 
-![vanillaJS](vanillaJS.gif)
+![vanillaJS](./vanillaJS/vanillaJS.gif)
 
 ​	
 
